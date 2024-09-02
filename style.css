@@ -1,4 +1,4 @@
-/* General Reset and Body Styles */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -7,7 +7,7 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Header Styles */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -18,12 +18,13 @@ header {
     text-align: center;
 }
 
-/* Navigation Styles */
+
 nav {
     display: flex;
     align-items: center;
     border-radius: 5px;
     background-color: #333;
+    margin-left: auto;
 }
 
 nav ul {
@@ -51,7 +52,7 @@ nav ul li a:hover {
     padding: 5px 10px;
 }
 
-/* Hero Section Styles */
+
 #hero {
     background: url('hero-image.jpg') no-repeat center center/cover;
     color: #070606;
@@ -73,7 +74,7 @@ nav ul li a:hover {
     margin: 10px 0;
 }
 
-/* Button Styles */
+
 button {
     padding: 10px 20px;
     font-size: 1rem;
@@ -89,7 +90,7 @@ button:hover {
     background-color: #555;
 }
 
-/* Section Styles */
+
 #about, #projects, #contact {
     padding: 50px 20px;
     text-align: center;
@@ -104,7 +105,7 @@ button:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Footer Styles */
+
 footer {
     background-color: #333;
     color: #fff;
