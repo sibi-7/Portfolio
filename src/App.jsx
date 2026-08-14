@@ -300,7 +300,7 @@ export default function App() {
             <div className="about-visual scroll-reveal">
               <div className="about-img-wrapper">
                 <img
-                  src="/assets/profile-cap.jpg"
+                  src="/assets/profile-cap.png"
                   alt="Sibi Vengatesan working"
                   className="about-img"
                 />
